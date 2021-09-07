@@ -12,12 +12,12 @@ This page is built with media queries so it is responsive across most devices.
 
 Desktop Layout:
 
-[Desktop view of the application showing one of the sections highlighted.](assets/images/cheatsheet_desktop.png)
+![Desktop view of the application showing one of the sections highlighted.](./assets/images/cheatsheet_desktop.png)
 
 Tablet Layout: 
 
-[Midsize screen view of the application showing one of the sections highlighted.](assets/images/cheatsheet_md.png)
+![Midsize screen view of the application showing one of the sections highlighted.](./assets/images/cheatsheet_md.png)
 
 Mobile Layout: 
 
-[Mobile view of the application showing one of the sections highlighted.](assets/images/cheatsheet_mobile.png)
+![Mobile view of the application showing one of the sections highlighted.](./assets/images/cheatsheet_mobile.png)

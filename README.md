@@ -1,6 +1,6 @@
 # CSS Cheatsheet
 
-Link to deployed page: 
+Link to deployed page: https://jl118.github.io/CSS-cheatsheet/
 
 ## Overview
 
